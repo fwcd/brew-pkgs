@@ -20,7 +20,8 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 ## Development
 
 - [`coreutils`](https://formulae.brew.sh/formula/coreutils) (GNU utils)
-- [`cmake`](https://formulae.brew.sh/formula/cmake) (Build tool)
+- [`visual-studio-code`](https://formulae.brew.sh/cask/visual-studio-code) (Editor/IDE)
+- [`cmake` (Cask)](https://formulae.brew.sh/cask/cmake) (Build tool)
 - [`ninja`](https://formulae.brew.sh/formula/ninja) (Lightweight build system)
 - [`cocoapods`](https://formulae.brew.sh/formula/cocoapods) (Cocoa dependency manager)
 - [`openjdk`](https://formulae.brew.sh/formula/openjdk) (Java)
@@ -29,7 +30,12 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`haskell-stack`](https://formulae.brew.sh/formula/haskell-stack) (Haskell build tool)
 - [`rustup-init`](https://formulae.brew.sh/formula/rustup-init) (Rust toolchain installer)
 - [`swi-prolog`](https://formulae.brew.sh/formula/swi-prolog) (Prolog environment)
+- [`flutter` (Cask)](https://formulae.brew.sh/cask/flutter) (UI toolkit)
+- [`processing` (Cask)](https://formulae.brew.sh/cask/processing) (Software sketchbook)
+- [`dotnet-sdk` (Cask)](https://formulae.brew.sh/cask/dotnet-sdk) (.NET SDK)
 - [`llvm`](https://formulae.brew.sh/formula/llvm) (Compiler infrastructure, alternatively install via Xcode)
+- [`ghidra`](https://formulae.brew.sh/cask/ghidra) (Reverse engineering tools)
+- [`sf-symbols` (Cask)](https://formulae.brew.sh/cask/sf-symbols) (Symbols browser)
 
 ## Emulation/Virtualization
 
@@ -42,6 +48,46 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`kubernetes-cli`](https://formulae.brew.sh/formula/kubernetes-cli) (Kubernetes API client)
 - [`helm`](https://formulae.brew.sh/formula/helm) (Kubernetes package manager)
 
+## Utilities
+
+- [`appcleaner` (Cask)](https://formulae.brew.sh/cask/appcleaner) (App removal utility)
+- [`the-unarchiver` (Cask)](https://formulae.brew.sh/cask/the-unarchiver) (Unarchival tool)
+- [`coconutbattery` (Cask)](https://formulae.brew.sh/cask/coconutbattery) (Battery info utility)
+
+## Internet
+
+- [`firefox` (Cask)](https://formulae.brew.sh/cask/firefox) (Web Browser)
+- [`discord` (Cask)](https://formulae.brew.sh/cask/discord) (Voice and Text Chat)
+- [`mattermost` (Cask)](https://formulae.brew.sh/cask/mattermost) (Text Chat)
+- [`zulip` (Cask)](https://formulae.brew.sh/cask/zulip) (Text Chat)
+- [`slack` (Cask)](https://formulae.brew.sh/cask/slack) (Text Chat)
+- [`zoom` (Cask)](https://formulae.brew.sh/cask/zoom) (Video Conferencing)
+
+## Productivity
+
+- [`mactex` (Cask)](https://formulae.brew.sh/cask/mactex) (LaTeX)
+- [`libreoffice` (Cask)](https://formulae.brew.sh/cask/libreoffice) (Office suite)
+- [`zotero` (Cask)](https://formulae.brew.sh/cask/zotero) (Bibliography manager)
+
+## Fonts
+
+- [`font-jetbrains-mono` (Cask)](https://github.com/Homebrew/homebrew-cask-fonts/blob/master/Casks/font-jetbrains-mono.rb) (Typeface for developers)
+
 ## Audio/Video
 
 - [`ffmpeg`](https://formulae.brew.sh/formula/ffmpeg) (Audio/video converter)
+- [`vlc` (Cask)](https://formulae.brew.sh/cask/vlc) (Multimedia player)
+- [`spotify` (Cask)](https://formulae.brew.sh/cask/spotify) (Music streaming)
+- [`mixxx` (Cask)](https://formulae.brew.sh/cask/mixxx) (DJing)
+- [`blender` (Cask)](https://formulae.brew.sh/cask/blender) (3D modeling)
+
+## Graphics
+
+- [`gimp` (Cask)](https://formulae.brew.sh/cask/gimp) (Image editor)
+- [`inkscape` (Cask)](https://formulae.brew.sh/cask/inkscape) (Vector graphics editor)
+
+## Gaming
+
+- [`epic-games` (Cask)](https://formulae.brew.sh/cask/epic-games) (Epic Games Launcher)
+- [`steam` (Cask)](https://formulae.brew.sh/cask/steam) (Game Distribution Platform)
+- [`multimc` (Cask)](https://formulae.brew.sh/cask/multimc) (Minecraft Launcher)
