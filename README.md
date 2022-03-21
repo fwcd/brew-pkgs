@@ -80,6 +80,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`spotify` (Cask)](https://formulae.brew.sh/cask/spotify) (Music streaming)
 - [`mixxx` (Cask)](https://formulae.brew.sh/cask/mixxx) (DJing)
 - [`blender` (Cask)](https://formulae.brew.sh/cask/blender) (3D modeling)
+- [`obs` (Cask)](https://formulae.brew.sh/cask/obs) (Broadcasting and screencasting)
 
 ## Graphics
 
