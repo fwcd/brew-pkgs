@@ -25,6 +25,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`ninja`](https://formulae.brew.sh/formula/ninja) (Lightweight build system)
 - [`cocoapods`](https://formulae.brew.sh/formula/cocoapods) (Cocoa dependency manager)
 - [`openjdk`](https://formulae.brew.sh/formula/openjdk) (Java)
+- [`zulu8` (Cask)](https://github.com/Homebrew/homebrew-cask-versions/blob/master/Casks/zulu8.rb) (Java 8 with ARM64 support)
 - [`node`](https://formulae.brew.sh/formula/node) (Node.js)
 - [`gradle`](https://formulae.brew.sh/formula/gradle) (JVM build tool)
 - [`haskell-stack`](https://formulae.brew.sh/formula/haskell-stack) (Haskell build tool)
