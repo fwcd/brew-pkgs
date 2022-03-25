@@ -60,6 +60,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`firefox` (Cask)](https://formulae.brew.sh/cask/firefox) (Web Browser)
 - [`discord` (Cask)](https://formulae.brew.sh/cask/discord) (Voice and Text Chat)
 - [`mattermost` (Cask)](https://formulae.brew.sh/cask/mattermost) (Text Chat)
+- [`signal` (Cask)](https://formulae.brew.sh/cask/signal) (Messenger)
 - [`zulip` (Cask)](https://formulae.brew.sh/cask/zulip) (Text Chat)
 - [`slack` (Cask)](https://formulae.brew.sh/cask/slack) (Text Chat)
 - [`zoom` (Cask)](https://formulae.brew.sh/cask/zoom) (Video Conferencing)
