@@ -54,6 +54,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`appcleaner` (Cask)](https://formulae.brew.sh/cask/appcleaner) (App removal utility)
 - [`the-unarchiver` (Cask)](https://formulae.brew.sh/cask/the-unarchiver) (Unarchival tool)
 - [`coconutbattery` (Cask)](https://formulae.brew.sh/cask/coconutbattery) (Battery info utility)
+- [`barrier` (Cask)](https://formulae.brew.sh/cask/barrier) (KVM)
 
 ## Internet
 
