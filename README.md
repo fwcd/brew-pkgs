@@ -41,6 +41,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 ## Server
 
 - [`postgresql`](https://formulae.brew.sh/formula/postgresql) (Database)
+  - Note that you can use `brew services` [as described here](https://gist.github.com/ibraheem4/ce5ccd3e4d7a65589ce84f2a3b7c23a3?permalink_comment_id=3443897#gistcomment-3443897) to start and stop PostgreSQL as needed
 
 ## Emulation/Virtualization
 
