@@ -38,6 +38,10 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`ghidra`](https://formulae.brew.sh/cask/ghidra) (Reverse engineering tools)
 - [`sf-symbols` (Cask)](https://formulae.brew.sh/cask/sf-symbols) (Symbols browser)
 
+## Server
+
+- [`postgresql`](https://formulae.brew.sh/formula/postgresql) (Database)
+
 ## Emulation/Virtualization
 
 - [`qemu`](https://formulae.brew.sh/formula/qemu) (Emulator)
