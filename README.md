@@ -52,6 +52,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 
 - [`docker` (Cask)](https://formulae.brew.sh/cask/docker) (Docker Desktop, container builder and runner)
 - [`kubernetes-cli`](https://formulae.brew.sh/formula/kubernetes-cli) (Kubernetes API client)
+- [`k9s`](https://formulae.brew.sh/formula/k9s) (Kubernetes TUI)
 - [`helm`](https://formulae.brew.sh/formula/helm) (Kubernetes package manager)
 
 ## Utilities
