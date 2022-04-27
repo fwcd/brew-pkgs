@@ -61,7 +61,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`the-unarchiver` (Cask)](https://formulae.brew.sh/cask/the-unarchiver) (Unarchival tool)
 - [`coconutbattery` (Cask)](https://formulae.brew.sh/cask/coconutbattery) (Battery info utility)
 - [`barrier` (Cask)](https://formulae.brew.sh/cask/barrier) (KVM)
-- [`raspberry-pi-imager`](https://formulae.brew.sh/cask/raspberry-pi-imager) (Image flashing utility)
+- [`raspberry-pi-imager` (Cask)](https://formulae.brew.sh/cask/raspberry-pi-imager) (Image flashing utility)
 
 ## Internet
 
