@@ -102,4 +102,4 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 
 - [`epic-games` (Cask)](https://formulae.brew.sh/cask/epic-games) (Epic Games Launcher)
 - [`steam` (Cask)](https://formulae.brew.sh/cask/steam) (Game Distribution Platform)
-- [`multimc` (Cask)](https://formulae.brew.sh/cask/multimc) (Minecraft Launcher)
+- [`prismlauncher` (Cask)](https://formulae.brew.sh/cask/prismlauncher) (Minecraft Launcher)
