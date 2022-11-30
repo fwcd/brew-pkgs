@@ -98,6 +98,11 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`gimp` (Cask)](https://formulae.brew.sh/cask/gimp) (Image editor)
 - [`inkscape` (Cask)](https://formulae.brew.sh/cask/inkscape) (Vector graphics editor)
 
+## CAD
+
+- [`prusaslicer` (Cask)](https://formulae.brew.sh/cask/prusaslicer) (3D slicer)
+- [`openscad` (Cask)](https://formulae.brew.sh/cask/openscad) (Programmable CAD modeler)
+
 ## Gaming
 
 - [`epic-games` (Cask)](https://formulae.brew.sh/cask/epic-games) (Epic Games Launcher)
