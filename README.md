@@ -63,6 +63,10 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`barrier` (Cask)](https://formulae.brew.sh/cask/barrier) (KVM)
 - [`raspberry-pi-imager` (Cask)](https://formulae.brew.sh/cask/raspberry-pi-imager) (Image flashing utility)
 
+## Cloud
+
+- [`nextcloud` (Cask)](https://formulae.brew.sh/cask/nextcloud) (Nextcloud desktop sync client)
+
 ## Internet
 
 - [`firefox` (Cask)](https://formulae.brew.sh/cask/firefox) (Web Browser)
