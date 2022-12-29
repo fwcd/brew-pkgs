@@ -39,7 +39,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`sf-symbols` (Cask)](https://formulae.brew.sh/cask/sf-symbols) (Symbols browser)
 - [`gh`](https://formulae.brew.sh/formula/gh) (GitHub CLI)
 - [`gcenx/wine/wine-crossover` (Cask)](https://github.com/Gcenx/homebrew-wine/blob/master/Casks/wine-crossover.rb) (Compatibility layer for Windows applications)
-  - Note that `wine-stable` also works, but does not support 32-bit applications
+  - Note that [`wine-stable`](https://formulae.brew.sh/cask/wine-stable) also works, but does not support 32-bit applications
   - See [this gist](https://gist.github.com/fwcd/903e0851f66a675a3a253b1837c7553f) for details
 - [`winetricks`](https://formulae.brew.sh/formula/winetricks) (Helper scripts for Windows libraries in Wine)
 
@@ -98,6 +98,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`vlc` (Cask)](https://formulae.brew.sh/cask/vlc) (Multimedia player)
 - [`spotify` (Cask)](https://formulae.brew.sh/cask/spotify) (Music streaming)
 - [`mixxx` (Cask)](https://formulae.brew.sh/cask/mixxx) (DJing)
+  - For an unofficial native arm64/Apple Silicon build, try [`fwcd/mixxx/m1xxx` (Cask)](https://github.com/fwcd/homebrew-mixxx/blob/main/Casks/m1xxx.rb)
 - [`blender` (Cask)](https://formulae.brew.sh/cask/blender) (3D modeling)
 - [`obs` (Cask)](https://formulae.brew.sh/cask/obs) (Broadcasting and screencasting)
 - [`blackhole-2ch` (Cask)](https://formulae.brew.sh/cask/blackhole-2ch) (Virtual Audio Driver, useful for routing desktop audio)
