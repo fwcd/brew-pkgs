@@ -38,6 +38,10 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`ghidra`](https://formulae.brew.sh/cask/ghidra) (Reverse engineering tools)
 - [`sf-symbols` (Cask)](https://formulae.brew.sh/cask/sf-symbols) (Symbols browser)
 - [`gh`](https://formulae.brew.sh/formula/gh) (GitHub CLI)
+- [`gcenx/wine/wine-crossover` (Cask)](https://github.com/Gcenx/homebrew-wine/blob/master/Casks/wine-crossover.rb) (Compatibility layer for Windows applications)
+  - Note that `wine-stable` also works, but does not support 32-bit applications
+  - See [this gist](https://gist.github.com/fwcd/903e0851f66a675a3a253b1837c7553f) for details
+- [`winetricks`](https://formulae.brew.sh/formula/winetricks) (Helper scripts for Windows libraries in Wine)
 
 ## Server
 
