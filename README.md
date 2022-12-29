@@ -37,6 +37,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`llvm`](https://formulae.brew.sh/formula/llvm) (Compiler infrastructure, alternatively install via Xcode)
 - [`ghidra`](https://formulae.brew.sh/cask/ghidra) (Reverse engineering tools)
 - [`sf-symbols` (Cask)](https://formulae.brew.sh/cask/sf-symbols) (Symbols browser)
+- [`gh`](https://formulae.brew.sh/formula/gh) (GitHub CLI)
 
 ## Server
 
