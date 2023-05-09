@@ -86,6 +86,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 ## Productivity
 
 - [`mactex` (Cask)](https://formulae.brew.sh/cask/mactex) (LaTeX)
+- [`pdfpc`](https://formulae.brew.sh/formula/pdfpc) (PDF presenter console)
 - [`libreoffice` (Cask)](https://formulae.brew.sh/cask/libreoffice) (Office suite)
 - [`zotero` (Cask)](https://formulae.brew.sh/cask/zotero) (Bibliography manager)
 
