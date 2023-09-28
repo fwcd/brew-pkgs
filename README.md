@@ -4,7 +4,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 
 ## Essential
 
-- [`vim`](https://formulae.brew.sh/formula/vim) (Text Editor)
+- [`neovim`](https://formulae.brew.sh/formula/neovim) (Text Editor)
 - [`git`](https://formulae.brew.sh/formula/git) (Version Control)
 - [`tmux`](https://formulae.brew.sh/formula/tmux) (Terminal Multiplexer)
 - [`htop`](https://formulae.brew.sh/formula/htop) (Process Manager)
@@ -21,7 +21,6 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 ## Development
 
 - [`coreutils`](https://formulae.brew.sh/formula/coreutils) (GNU utils)
-- [`neovim`](https://formulae.brew.sh/formula/neovim) (Text Editor)
 - [`visual-studio-code`](https://formulae.brew.sh/cask/visual-studio-code) (Editor/IDE)
 - [`cmake` (Cask)](https://formulae.brew.sh/cask/cmake) (Build tool)
 - [`ninja`](https://formulae.brew.sh/formula/ninja) (Lightweight build system)
