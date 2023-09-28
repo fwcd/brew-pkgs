@@ -69,6 +69,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 - [`coconutbattery` (Cask)](https://formulae.brew.sh/cask/coconutbattery) (Battery info utility)
 - [`barrier` (Cask)](https://formulae.brew.sh/cask/barrier) (KVM)
 - [`raspberry-pi-imager` (Cask)](https://formulae.brew.sh/cask/raspberry-pi-imager) (Image flashing utility)
+- [`burn` (Cask)](https://formulae.brew.sh/cask/burn) (CD/DVD burning tool)
 
 ## Cloud
 
