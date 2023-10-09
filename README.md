@@ -14,6 +14,7 @@ A list of recommendations for Homebrew packages on macOS I find useful.
 
 - [`trash`](https://formulae.brew.sh/formula/trash) (Trash helper)
 - [`tree`](https://formulae.brew.sh/formula/tree) (Recursive directory lister)
+- [`rename`](https://formulae.brew.sh/formula/rename) (Batch rename tool)
 - [`fzf`](https://formulae.brew.sh/formula/fzf) (Fuzzy finder)
 - [`jq`](https://formulae.brew.sh/formula/jq) (JSON processor)
 - [`rlwrap`](https://formulae.brew.sh/formula/rlwrap) (Readline wrapper)
