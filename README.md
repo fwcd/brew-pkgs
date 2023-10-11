@@ -45,6 +45,10 @@ A list of recommendations for Homebrew packages on macOS I find useful.
   - See [this gist](https://gist.github.com/fwcd/903e0851f66a675a3a253b1837c7553f) for details
 - [`winetricks`](https://formulae.brew.sh/formula/winetricks) (Helper scripts for Windows libraries in Wine)
 
+## Security
+
+- [`little-snitch` (Cask)](https://formulae.brew.sh/cask/little-snitch) (Personal firewall)
+
 ## Server
 
 - [`postgresql`](https://formulae.brew.sh/formula/postgresql) (Database)
